@@ -1,3 +1,3 @@
 <?php
 
-echo 'Paiemnt en cours';
+echo 'Paiement en cours';
